@@ -22,8 +22,3 @@ If you want to run this repo. follow these steps.
     ```
     python spark-streaming.py
     ```
-- At the last you can run ```app.py``` for visulaization on your localhost:5000
-    ```
-    python app.py
-    ```
-- Open your browser and run ```localhost:5000```
